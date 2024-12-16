@@ -1,0 +1,31 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.my-header {
+  font-weight: 700;
+}
+
+.my-header--1 {
+  font-size: 48px;
+}
+
+.my-header--2 {
+  font-size: 32px;
+}
+
+.my-header--3 {
+  font-size: 24px;
+}
+
+.my-header--4 {
+  font-size: 20px;
+}
+
+.my-header--5 {
+  font-size: 16px;
+}
+
+.my-header--6 {
+  font-size: 14px;
+}
